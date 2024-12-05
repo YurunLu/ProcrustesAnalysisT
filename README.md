@@ -2,7 +2,7 @@
 ## A procrustes approach for quantitatively evaluate the similarity of genes and geography following Wang C. et al.
 ### Usage
 #### Input preparation
-`PCA.data.txt` in the same direction, with at least four columns, `pc1` and `pc2` for PCA results, `latitude` and `longitude` for the geographic coordinates.
+`PCA.data.txt` in the same directory, with at least four columns, `pc1` and `pc2` for PCA results, `latitude` and `longitude` for the geographic coordinates.
 #### Run
 `python ./Calculate_T_stat.py`
 #### Output
